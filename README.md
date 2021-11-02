@@ -6,7 +6,7 @@ MagmaAPI provides a connection to magma online calculator. This project can be u
 To achive IDE capability; 
 * Download and install magma packages on sublime text 
 * Create a new build system
-* Configure a buid system using `Non-Official-MagmaAPI`
+* Configure a build system using `Non-Official-MagmaAPI`
 
 
 
